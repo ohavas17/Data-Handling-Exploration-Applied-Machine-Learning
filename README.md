@@ -1,0 +1,2 @@
+# Data-Handling-Exploration-Applied-Machine-Learning
+Upon completion of the module students will have built a solid and expandable knowledge foundation in modern data science and will have acquired a broad range of skills enabling them to carry out own data analysis projects. More specifically the module will cover foundations of data manipulation, exploratory data analysis, supervised and unsupervis
